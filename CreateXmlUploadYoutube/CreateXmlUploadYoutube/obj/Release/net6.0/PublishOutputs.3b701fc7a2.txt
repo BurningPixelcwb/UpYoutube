@@ -1,0 +1,5 @@
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\CreateXmlUploadYoutube.exe
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\CreateXmlUploadYoutube.dll
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\CreateXmlUploadYoutube.deps.json
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\CreateXmlUploadYoutube.runtimeconfig.json
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\CreateXmlUploadYoutube.pdb

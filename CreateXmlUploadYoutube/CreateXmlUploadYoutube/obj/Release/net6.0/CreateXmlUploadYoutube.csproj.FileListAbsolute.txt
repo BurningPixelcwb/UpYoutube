@@ -1,0 +1,14 @@
+C:\Users\burni\Documents\workstation\Thelus\CreateXmlUploadYoutube\CreateXmlUploadYoutube\bin\Release\net6.0\CreateXmlUploadYoutube.exe
+C:\Users\burni\Documents\workstation\Thelus\CreateXmlUploadYoutube\CreateXmlUploadYoutube\bin\Release\net6.0\CreateXmlUploadYoutube.deps.json
+C:\Users\burni\Documents\workstation\Thelus\CreateXmlUploadYoutube\CreateXmlUploadYoutube\bin\Release\net6.0\CreateXmlUploadYoutube.runtimeconfig.json
+C:\Users\burni\Documents\workstation\Thelus\CreateXmlUploadYoutube\CreateXmlUploadYoutube\bin\Release\net6.0\CreateXmlUploadYoutube.dll
+C:\Users\burni\Documents\workstation\Thelus\CreateXmlUploadYoutube\CreateXmlUploadYoutube\bin\Release\net6.0\CreateXmlUploadYoutube.pdb
+C:\Users\burni\Documents\workstation\Thelus\CreateXmlUploadYoutube\CreateXmlUploadYoutube\obj\Release\net6.0\CreateXmlUploadYoutube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burni\Documents\workstation\Thelus\CreateXmlUploadYoutube\CreateXmlUploadYoutube\obj\Release\net6.0\CreateXmlUploadYoutube.AssemblyInfoInputs.cache
+C:\Users\burni\Documents\workstation\Thelus\CreateXmlUploadYoutube\CreateXmlUploadYoutube\obj\Release\net6.0\CreateXmlUploadYoutube.AssemblyInfo.cs
+C:\Users\burni\Documents\workstation\Thelus\CreateXmlUploadYoutube\CreateXmlUploadYoutube\obj\Release\net6.0\CreateXmlUploadYoutube.csproj.CoreCompileInputs.cache
+C:\Users\burni\Documents\workstation\Thelus\CreateXmlUploadYoutube\CreateXmlUploadYoutube\obj\Release\net6.0\CreateXmlUploadYoutube.dll
+C:\Users\burni\Documents\workstation\Thelus\CreateXmlUploadYoutube\CreateXmlUploadYoutube\obj\Release\net6.0\refint\CreateXmlUploadYoutube.dll
+C:\Users\burni\Documents\workstation\Thelus\CreateXmlUploadYoutube\CreateXmlUploadYoutube\obj\Release\net6.0\CreateXmlUploadYoutube.pdb
+C:\Users\burni\Documents\workstation\Thelus\CreateXmlUploadYoutube\CreateXmlUploadYoutube\obj\Release\net6.0\CreateXmlUploadYoutube.genruntimeconfig.cache
+C:\Users\burni\Documents\workstation\Thelus\CreateXmlUploadYoutube\CreateXmlUploadYoutube\obj\Release\net6.0\ref\CreateXmlUploadYoutube.dll

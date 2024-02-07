@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<upload application="Youtube Mass Uploader" secret="C:\\Users\\burni\\Documents\\workstation\\BurningpixelCwb\\UpYoutube\\secret.json">
+    <video file="C:\\Users\\burni\\Documents\\workstation\\BurningpixelCwb\\UpYoutube\\video_teste.mp4" privacy="Public" category="Sports">
+        <channel id="UC2-pwvZJqYtVbqZAg4Yq60w"/>
+        <title>Contagem regressiva</title>
+        <description>
+            Este vídeo é um upload realizado de forma automatica. Ainda estamos testando qual a maneira mais adequada de fazermos isso mas pelo que parece está indo tudo muito bem!
+        </description>
+        <!-- <thumbnail file="/Users/test/Thumbnails/My_Thumbnail.png"/>          -->
+        <tags>viva padel, padel, jogadas, jogada padel</tags>
+    </video>
+</upload>

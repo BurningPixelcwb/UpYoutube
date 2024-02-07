@@ -1,0 +1,14 @@
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\MoveFilesYoutubeUpload\MoveFilesYoutubeUpload\bin\Debug\net6.0\MoveFilesYoutubeUpload.exe
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\MoveFilesYoutubeUpload\MoveFilesYoutubeUpload\bin\Debug\net6.0\MoveFilesYoutubeUpload.deps.json
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\MoveFilesYoutubeUpload\MoveFilesYoutubeUpload\bin\Debug\net6.0\MoveFilesYoutubeUpload.runtimeconfig.json
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\MoveFilesYoutubeUpload\MoveFilesYoutubeUpload\bin\Debug\net6.0\MoveFilesYoutubeUpload.dll
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\MoveFilesYoutubeUpload\MoveFilesYoutubeUpload\bin\Debug\net6.0\MoveFilesYoutubeUpload.pdb
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\MoveFilesYoutubeUpload\MoveFilesYoutubeUpload\obj\Debug\net6.0\MoveFilesYoutubeUpload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\MoveFilesYoutubeUpload\MoveFilesYoutubeUpload\obj\Debug\net6.0\MoveFilesYoutubeUpload.AssemblyInfoInputs.cache
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\MoveFilesYoutubeUpload\MoveFilesYoutubeUpload\obj\Debug\net6.0\MoveFilesYoutubeUpload.AssemblyInfo.cs
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\MoveFilesYoutubeUpload\MoveFilesYoutubeUpload\obj\Debug\net6.0\MoveFilesYoutubeUpload.csproj.CoreCompileInputs.cache
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\MoveFilesYoutubeUpload\MoveFilesYoutubeUpload\obj\Debug\net6.0\MoveFilesYoutubeUpload.dll
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\MoveFilesYoutubeUpload\MoveFilesYoutubeUpload\obj\Debug\net6.0\refint\MoveFilesYoutubeUpload.dll
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\MoveFilesYoutubeUpload\MoveFilesYoutubeUpload\obj\Debug\net6.0\MoveFilesYoutubeUpload.pdb
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\MoveFilesYoutubeUpload\MoveFilesYoutubeUpload\obj\Debug\net6.0\MoveFilesYoutubeUpload.genruntimeconfig.cache
+C:\Users\burni\Documents\workstation\BurningpixelCwb\UpYoutube\MoveFilesYoutubeUpload\MoveFilesYoutubeUpload\obj\Debug\net6.0\ref\MoveFilesYoutubeUpload.dll
